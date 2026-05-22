@@ -1,3 +1,5 @@
+RETAIL SALES DASHBOARD ANALYSIS USING EXCEL
+
 Project Overview
 
 This project focused on analyzing retail sales data using Microsoft Excel to uncover insights into product performance, customer demographics, and monthly sales trends. The dashboard was built using Pivot Tables to transform raw retail data into an interactive visual report. 
