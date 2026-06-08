@@ -48,7 +48,7 @@ The projects focus on:
 - Data querying and business reporting
 
 ## 7. Python & Jupyter Notebook Projects
-- Data cleaning, analysis, and visualization
+- Data cleaning, analysis, visualization, exploratory data analysis (EDA) and machine learning
 
 # About Me
 
